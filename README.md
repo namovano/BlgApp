@@ -48,3 +48,6 @@ The application sends mail for `Successful Registration`, `Forgot Password` and 
 2. Development Mode Start (code changes reflect on the fly) `SET DEBUG=Blog-Post:* & npm run devstart`
 3. Open the application in any browser with http://localhost:8080/
 
+
+## Новий функціонал
+Опис нового функціоналу: додано підтримку нових можливостей, покращено інтерфейс користувача та оптимізовано продуктивність.
