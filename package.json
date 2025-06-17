@@ -23,6 +23,7 @@
     "express-flash-messages": "^0.1.1",
     "express-handlebars": "^7.1.2",
     "express-session": "^1.15.6",
+    "faker": "^6.6.6",
     "geckodriver": "^5.0.0",
     "handlebars-helpers": "^0.9.8",
     "moment": "^2.22.2",
